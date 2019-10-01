@@ -1,4 +1,10 @@
-# detekt
+# detekt - AI Based Object and Motion Detector
+Detekt is designed to be a neighborhood security camera application. This app will continuously watch for motion. Upon picking up something, it will capture an image and a trained neural network model will classify whether it is a person or some other neighborhood object (dog, package, squirrel, etc.) and store all relevant data within an sqlite database.
+
+- Conducted video/image processing conducted using OpenCV for motion detection, image capture and manipulation
+- Trained a region-based convolutional neural network using Tensorflow and Tensorflow model zoo
+- Developed a graphical user interface with sqlite database for storing and accessing saved data using SQL and PyQT5
+- Performed data processing and summarization of object detection history within a web based time plot using Pandas and Bokeh
 
 ## Dependencies
 - OpenCV
