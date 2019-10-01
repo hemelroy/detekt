@@ -1,0 +1,106 @@
+filename,width,height,class,xmin,ymin,xmax,ymax
+cat 19.jpg,768,432,cat,208,189,492,321
+cat 24.jpg,1200,800,cat,359,23,851,768
+cat 25.jpg,800,800,cat,190,91,548,716
+cat 33.jpg,300,168,cat,23,2,291,161
+cat 37.jpg,800,599,cat,1,47,495,598
+cat 38.jpg,636,372,cat,97,16,593,372
+cat 39.jpg,715,477,cat,185,99,602,384
+cat 45.jpg,1000,773,cat,182,29,851,750
+cat 48.jpg,300,168,cat,122,75,222,139
+cat 50.jpg,928,619,cat,170,11,574,619
+cat 54.jpg,634,579,cat,8,3,634,525
+cat 69.jpg,850,569,cat,54,1,843,460
+cat 7.jpg,1800,825,cat,164,221,1013,797
+cat 7.jpg,1800,825,cat,784,6,1355,795
+cat 71.jpg,236,210,cat,15,17,223,181
+cat 78.jpg,800,1325,cat,1,142,780,1288
+cat 81.jpg,760,335,cat,1,37,376,334
+cat 81.jpg,760,335,cat,327,100,759,333
+cat 88.jpg,225,225,cat,1,1,194,223
+cat 94.jpg,1300,1341,cat,56,121,1099,1147
+dog12.jpg,500,418,dog,128,83,475,406
+dog15.jpg,340,220,dog,115,15,327,200
+dog18.jpg,484,272,dog,124,37,431,272
+dog22.jpeg,462,260,dog,124,8,314,249
+dog26.jpeg,205,246,dog,10,1,199,246
+dog35.jpg,500,409,dog,58,26,496,409
+dog36.jpg,800,678,dog,46,23,732,678
+dog39.jpg,680,453,dog,16,66,577,432
+dog42.jpg,729,485,dog,100,57,680,440
+dog45.jpg,900,600,dog,3,7,558,600
+dog57.jpg,1280,720,dog,320,114,622,689
+dog57.jpg,1280,720,dog,666,119,990,652
+dog59.jpg,1500,924,dog,2,158,745,924
+dog59.jpg,1500,924,dog,797,116,1491,924
+dog62.jpg,729,486,dog,45,17,686,473
+dog71.jpg,700,577,dog,55,38,652,551
+dog75.jpeg,645,380,dog,104,14,601,379
+dog77.jpg,435,363,dog,26,12,419,318
+dog78.jpg,729,486,dog,172,17,609,473
+dog85.jpg,729,486,dog,217,63,477,452
+dog90.jpg,400,265,dog,30,1,315,265
+dog93.jpg,355,272,dog,105,38,293,242
+package13.jpeg,1500,1500,package,335,343,1239,1253
+package2.jpg,970,546,package,243,114,812,546
+package2.jpg,970,546,package,333,1,646,224
+package20.jpg,1890,1540,package,227,258,1675,1298
+package21.jpeg,800,800,package,65,242,751,584
+package24.jpg,500,500,package,3,57,498,442
+package33.png,800,400,package,179,89,773,400
+person13.jpeg,577,342,person,193,23,365,341
+person13.jpeg,577,342,person,362,40,559,341
+person13.jpeg,577,342,person,1,19,200,341
+person20.jpg,1200,1632,person,381,68,863,1557
+person25.jpg,960,540,person,20,160,239,540
+person25.jpg,960,540,person,224,170,403,540
+person25.jpg,960,540,person,387,166,593,540
+person25.jpg,960,540,person,584,175,764,540
+person25.jpg,960,540,person,761,150,941,540
+person31.jpg,300,300,person,16,21,270,299
+person33.jpg,200,300,person,1,39,199,299
+person37.jpg,639,639,person,1,19,523,639
+person48.jpg,604,340,person,279,39,547,340
+person50.jpeg,216,233,person,1,9,211,233
+person59.jpg,445,445,person,86,3,414,444
+person66.jpg,236,354,person,46,39,190,334
+person71.jpg,269,194,person,84,1,269,180
+person74.jpg,1024,1024,person,1,22,530,1022
+person74.jpg,1024,1024,person,558,89,1024,1020
+person76.jpg,2280,970,person,213,267,877,970
+person76.jpg,2280,970,person,817,289,1326,970
+person76.jpg,2280,970,person,1326,3,2140,970
+person81.jpg,550,309,person,75,20,389,309
+person86.jpg,640,480,person,98,73,281,471
+person86.jpg,640,480,person,341,75,619,452
+person90.jpg,547,631,person,103,25,430,609
+person97.jpg,612,408,person,236,1,587,399
+rabbit13.jpeg,640,608,rabbit,51,68,604,555
+rabbit15.jpg,799,533,rabbit,68,84,502,512
+rabbit16.jpg,408,470,rabbit,33,20,337,460
+rabbit22.jpg,1280,852,rabbit,214,86,929,783
+rabbit29.jpg,300,210,rabbit,129,7,273,189
+rabbit31.jpg,768,432,rabbit,157,2,456,421
+rabbit34.jpg,1495,1000,rabbit,228,143,1143,570
+rabbit43.jpg,600,300,rabbit,40,8,385,276
+rabbit48.jpg,900,600,rabbit,151,36,852,511
+squirrel 15.jpg,700,394,squirrel,70,29,643,365
+squirrel 19.jpg,286,176,squirrel,17,34,180,141
+squirrel 2.jpg,660,371,squirrel,185,113,524,272
+squirrel 38.jpg,268,188,squirrel,39,3,196,188
+squirrel 43.jpg,300,240,squirrel,70,42,233,235
+squirrel 48.jpg,1200,630,squirrel,128,1,922,624
+squirrel 49.jpg,800,480,squirrel,205,2,651,479
+squirrel 51.jpg,968,681,squirrel,286,102,738,526
+squirrel 53.jpg,320,239,squirrel,127,54,279,193
+squirrel 60.jpg,1200,797,squirrel,115,115,894,765
+squirrel 65.jpg,720,405,squirrel,2,1,569,403
+squirrel 68.jpg,275,183,squirrel,1,10,185,181
+squirrel 70.jpg,620,413,squirrel,128,5,620,357
+squirrel 72.jpg,480,270,squirrel,41,30,445,219
+squirrel 73.jpg,447,297,squirrel,201,57,336,179
+squirrel 75.jpg,825,486,squirrel,61,4,795,445
+squirrel 83.jpg,350,350,squirrel,67,6,290,245
+squirrel 88.jpg,800,504,squirrel,247,136,651,293
+squirrel 89.jpg,1300,957,squirrel,363,211,1184,818
+squirrel 93.jpg,300,342,squirrel,34,32,270,294

@@ -1,0 +1,448 @@
+filename,width,height,class,xmin,ymin,xmax,ymax
+cat 1.jpg,340,148,cat,97,10,316,112
+cat 10.jpg,720,405,cat,225,50,609,344
+cat 100.jpg,1300,957,cat,414,84,1110,794
+cat 101.jpg,500,333,cat,1,19,436,332
+cat 103.png,1001,1001,cat,93,50,809,946
+cat 11.jpg,225,225,cat,1,7,220,221
+cat 12.jpg,590,428,cat,44,1,491,426
+cat 13.jpg,660,371,cat,48,3,304,370
+cat 13.jpg,660,371,cat,334,5,660,308
+cat 14.jpg,1240,827,cat,292,239,855,618
+cat 15.jpg,284,177,cat,54,2,153,176
+cat 15.jpg,284,177,cat,104,25,284,164
+cat 16.jpg,275,183,cat,84,18,215,176
+cat 17.jpg,500,500,cat,106,26,467,458
+cat 18.jpg,653,436,cat,1,111,489,435
+cat 2.jpg,1000,667,cat,165,5,844,621
+cat 20.jpg,987,1024,cat,206,53,928,980
+cat 21.jpg,257,196,cat,1,1,256,195
+cat 22.jpg,854,480,cat,1,1,851,478
+cat 23.jpg,1200,628,cat,7,5,1014,628
+cat 26.jpg,240,240,cat,54,43,168,215
+cat 27.jpg,311,162,cat,7,1,287,159
+cat 28.jpg,335,525,cat,1,2,329,516
+cat 29.jpg,700,368,cat,393,86,516,321
+cat 29.jpg,700,368,cat,477,73,604,329
+cat 3.jpg,800,1020,cat,174,78,712,919
+cat 30.jpg,1200,800,cat,309,167,744,786
+cat 31.jpg,1200,630,cat,405,190,785,428
+cat 32.jpg,600,400,cat,84,14,541,399
+cat 34.jpg,300,300,cat,47,1,233,300
+cat 35.jpg,1040,500,cat,123,32,1004,500
+cat 35.jpg,1040,500,cat,216,1,802,296
+cat 36.jpg,287,175,cat,80,4,230,165
+cat 4.jpg,720,720,cat,123,3,552,582
+cat 40.jpg,800,445,cat,25,1,800,424
+cat 41.jpg,460,284,cat,250,46,369,284
+cat 42.jpg,1600,1200,cat,230,154,886,865
+cat 44.jpg,1366,768,cat,228,20,1192,628
+cat 46.jpg,505,330,cat,1,1,422,329
+cat 47.jpg,575,441,cat,22,36,517,396
+cat 49.jpeg,640,427,cat,91,8,507,408
+cat 5.jpg,225,225,cat,52,1,181,212
+cat 51.jpg,700,467,cat,4,18,650,464
+cat 52.jpg,980,980,cat,221,77,784,961
+cat 53.jpg,350,200,cat,85,6,339,200
+cat 55.jpg,1024,569,cat,25,116,296,432
+cat 55.jpg,1024,569,cat,245,11,450,461
+cat 55.jpg,1024,569,cat,443,90,651,492
+cat 55.jpg,1024,569,cat,610,137,875,475
+cat 55.jpg,1024,569,cat,779,61,1007,384
+cat 56.jpg,900,643,cat,309,121,771,577
+cat 57.jpg,500,350,cat,76,8,427,347
+cat 58.jpg,490,326,cat,84,20,448,313
+cat 59.jpg,279,300,cat,1,5,275,293
+cat 6.jpg,1920,1046,cat,39,110,1784,993
+cat 60.jpg,500,350,cat,21,36,482,339
+cat 61.jpg,1152,768,cat,43,198,1040,711
+cat 62.jpg,970,546,cat,54,78,862,493
+cat 63.jpg,620,349,cat,83,42,397,203
+cat 63.jpg,620,349,cat,170,121,547,326
+cat 64.jpg,310,162,cat,10,64,157,152
+cat 64.jpg,310,162,cat,74,4,158,120
+cat 64.jpg,310,162,cat,137,27,198,123
+cat 64.jpg,310,162,cat,201,2,267,76
+cat 64.jpg,310,162,cat,167,32,309,156
+cat 65.jpg,900,600,cat,266,91,674,595
+cat 66.jpg,1040,500,cat,233,5,833,500
+cat 67.jpg,443,267,cat,181,16,353,267
+cat 67.jpg,443,267,cat,207,114,322,220
+cat 68.jpg,750,500,cat,1,3,749,492
+cat 68.jpg,750,500,cat,59,106,325,444
+cat 70.jpg,1280,720,cat,155,1,1098,621
+cat 72.jpg,275,183,cat,1,1,265,170
+cat 73.jpg,1280,720,cat,94,9,1046,717
+cat 74.jpg,780,439,cat,322,1,778,434
+cat 75.jpg,1300,956,cat,492,85,1192,784
+cat 76.jpg,1200,1073,cat,109,21,922,1050
+cat 77.jpg,645,380,cat,1,3,481,376
+cat 79.jpg,2000,1333,cat,49,14,1984,1321
+cat 8.jpg,276,183,cat,84,19,187,121
+cat 80.jpg,300,180,cat,46,27,191,179
+cat 82.png,712,410,cat,1,1,549,401
+cat 83.jpg,1024,512,cat,1,1,896,505
+cat 84.jpg,1023,682,cat,477,130,929,539
+cat 85.jpg,680,454,cat,30,69,643,432
+cat 86.jpg,225,225,cat,8,1,171,224
+cat 89.jpg,644,414,cat,131,1,640,411
+cat 9.jpg,1200,900,cat,138,95,678,719
+cat 9.jpg,1200,900,cat,664,123,1142,778
+cat 90.jpg,629,680,cat,84,1,576,674
+cat 91.jpeg,220,187,cat,70,1,207,184
+cat 92.jpg,510,340,cat,70,1,508,323
+cat 93.jpg,480,640,cat,47,79,477,581
+cat 95.jpg,953,1104,cat,44,129,805,992
+cat 96.jpg,1300,1390,cat,1,541,1282,1190
+cat 97.jpg,1600,1200,cat,319,62,1102,1196
+cat 98.jpg,1220,1104,cat,1,18,1202,1007
+dog1.jpg,1100,734,dog,177,77,930,734
+dog10.jpg,500,333,dog,27,113,358,258
+dog100.jpg,400,400,dog,36,15,370,400
+dog11.jpg,360,296,dog,6,16,354,270
+dog13.jpg,250,274,dog,35,49,250,273
+dog14.jpg,500,400,dog,71,98,467,381
+dog16.jpg,1000,667,dog,416,202,820,644
+dog17.jpg,750,563,dog,67,7,655,563
+dog19.jpg,620,330,dog,23,1,418,305
+dog2.jpg,1200,800,dog,225,54,1199,797
+dog20.jpg,560,500,dog,142,87,559,453
+dog23.jpeg,308,164,dog,41,5,207,164
+dog24.jpg,492,350,dog,23,58,477,322
+dog25.jpg,1920,1440,dog,372,132,1919,1434
+dog27.jpg,1050,550,dog,374,81,624,499
+dog28.png,256,259,dog,1,12,242,251
+dog29.jpg,1200,630,dog,371,23,853,630
+dog3.jpeg,1199,674,dog,1,3,763,673
+dog30.jpg,639,426,dog,102,42,639,344
+dog31.jpg,400,300,dog,60,42,344,300
+dog32.jpeg,259,194,dog,85,4,172,194
+dog33.jpg,860,484,dog,119,9,763,484
+dog34.jpeg,500,734,dog,112,119,387,651
+dog37.jpg,1200,800,dog,511,92,1093,602
+dog38.jpg,600,377,dog,115,24,499,377
+dog4.jpg,1357,1900,dog,381,365,972,1631
+dog40.jpg,800,450,dog,80,1,800,448
+dog41.jpg,700,700,dog,186,5,549,693
+dog43.jpg,1024,681,dog,328,27,767,644
+dog44.jpg,1200,650,dog,162,15,962,609
+dog46.jpg,712,475,dog,215,103,534,475
+dog47.jpg,220,160,dog,16,4,200,150
+dog48.jpg,300,268,dog,1,1,300,267
+dog49.jpg,680,453,dog,89,46,602,452
+dog5.jpg,1200,750,dog,85,39,535,750
+dog5.jpg,1200,750,dog,694,108,1160,749
+dog50.jpg,750,500,dog,318,81,561,460
+dog51.jpg,473,355,dog,85,2,440,355
+dog52.jpg,860,397,dog,97,49,667,346
+dog53.jpg,1000,667,dog,226,82,752,644
+dog54.jpg,1024,768,dog,1,327,274,561
+dog54.jpg,1024,768,dog,389,279,593,496
+dog54.jpg,1024,768,dog,239,355,435,524
+dog54.jpg,1024,768,dog,582,361,796,522
+dog54.jpg,1024,768,dog,778,324,1022,566
+dog55.jpg,845,450,dog,359,78,734,354
+dog56.jpg,770,405,dog,7,76,368,354
+dog56.jpg,770,405,dog,373,49,742,344
+dog58.png,1000,537,dog,154,105,422,458
+dog58.png,1000,537,dog,641,88,843,441
+dog6.jpg,1920,950,dog,76,46,1839,871
+dog60.jpg,672,680,dog,67,147,639,570
+dog61.jpeg,645,380,dog,247,20,521,357
+dog63.jpg,645,380,dog,65,53,625,357
+dog64.jpg,1200,650,dog,16,35,806,627
+dog65.jpg,729,486,dog,1,57,729,484
+dog66.jpg,850,477,dog,43,4,595,474
+dog67.jpg,1010,673,dog,87,11,914,653
+dog68.jpg,460,290,dog,65,10,403,279
+dog69.jpg,400,267,dog,94,18,304,257
+dog7.jpg,2172,1326,dog,138,124,1872,1139
+dog70.jpg,729,486,dog,183,26,606,473
+dog72.jpg,800,541,dog,50,36,775,506
+dog73.jpg,645,380,dog,97,23,500,377
+dog74.jpeg,1131,689,dog,159,79,632,641
+dog76.jpg,640,800,dog,73,36,509,783
+dog79.jpg,1088,640,dog,329,69,913,622
+dog8.jpg,1252,766,dog,442,426,1131,704
+dog80.jpeg,607,430,dog,54,16,501,405
+dog81.jpg,2048,1891,dog,161,58,1817,1767
+dog82.jpg,800,509,dog,82,46,709,488
+dog83.jpg,600,400,dog,154,75,599,400
+dog84.jpg,500,749,dog,88,41,500,696
+dog86.jpg,612,408,dog,24,34,576,379
+dog87.jpg,729,487,dog,85,32,666,460
+dog88.jpg,1200,650,dog,77,61,486,650
+dog88.jpg,1200,650,dog,668,94,1150,640
+dog89.jpg,500,750,dog,50,145,420,698
+dog9.jpg,1100,733,dog,421,137,1009,640
+dog91.jpg,500,750,dog,39,133,465,536
+dog92.jpg,947,749,dog,134,78,796,668
+dog95.jpg,679,374,dog,114,7,545,367
+dog96.jpg,400,313,dog,103,93,195,303
+dog96.jpg,400,313,dog,194,12,306,307
+dog97.jpg,403,402,dog,94,58,360,368
+dog98.jpg,620,387,dog,49,23,426,387
+dog99.jpg,732,462,dog,1,68,534,459
+package1.jpg,600,400,package,106,35,520,349
+package10.jpg,2000,1500,package,280,314,1741,1249
+package11.jpg,500,500,package,5,113,499,387
+package12.jpg,992,992,package,192,23,861,970
+package14.jpg,1000,1000,package,107,244,873,761
+package15.png,500,500,package,57,109,441,397
+package16.jpg,1000,1000,package,48,197,952,797
+package17.jpg,786,655,package,67,106,722,551
+package18.jpg,900,900,package,64,206,798,738
+package19.jpg,1000,1000,package,9,140,990,908
+package22.jpg,466,466,package,9,15,461,447
+package23.jpg,466,310,package,47,30,416,294
+package25.png,300,199,package,40,21,267,186
+package26.jpg,736,736,package,36,55,700,691
+package27.jpg,370,370,package,17,86,366,291
+package28.jpg,1000,1000,package,22,225,990,761
+package29.jpg,375,375,package,5,42,367,330
+package3.jpg,940,600,package,317,152,841,486
+package30.jpeg,300,300,package,13,30,287,271
+package31.jpg,760,506,package,250,128,487,290
+package31.jpg,760,506,package,246,278,520,446
+package32.jpg,600,340,package,28,58,361,293
+package34.jpg,890,501,package,425,107,751,499
+package35.jpg,800,533,package,151,75,639,488
+package36.jpg,1455,1200,package,825,347,1394,984
+package37.jpg,960,640,package,132,144,771,583
+package39.jpg,1000,995,package,222,127,762,870
+package4.jpg,1200,1200,package,1,440,1198,1138
+package40.jpeg,2000,1333,package,719,558,1754,1188
+package41.jpg,600,400,package,357,163,543,320
+package41.jpg,600,400,package,375,111,532,163
+package41.jpg,600,400,package,391,68,518,111
+package42.jpeg,850,552,package,186,143,682,488
+package44.jpg,400,309,package,27,12,379,284
+package45.jpg,600,600,package,11,102,586,479
+package46.jpg,600,600,package,14,163,586,451
+package47.jpg,600,600,package,24,198,591,483
+package48.jpg,1280,720,package,49,57,895,706
+package5.jpg,600,387,package,85,91,499,374
+package6.jpg,1024,683,package,146,100,893,593
+package7.png,696,518,package,110,86,637,498
+package8.jpg,425,425,package,6,26,422,402
+package9.jpg,1200,800,package,96,1,1155,743
+person1.jpeg,275,183,person,80,11,258,183
+person10.png,1280,911,person,387,260,704,911
+person10.png,1280,911,person,674,184,995,910
+person100.jpg,626,417,person,155,9,559,417
+person11.jpg,800,507,person,307,31,723,506
+person12.jpg,612,408,person,26,46,213,408
+person12.jpg,612,408,person,221,30,380,408
+person12.jpg,612,408,person,376,48,592,408
+person14.jpg,612,406,person,78,9,457,406
+person15.png,200,200,person,1,9,199,199
+person16.jpg,408,612,person,130,44,263,522
+person17.jpg,408,612,person,129,31,264,569
+person18.jpg,1200,1685,person,286,50,867,1631
+person19.jpg,408,612,person,109,35,311,589
+person2.jpg,505,340,person,229,10,432,340
+person21.jpg,418,450,person,23,14,393,440
+person22.jpg,1500,1135,person,53,39,553,1018
+person22.jpg,1500,1135,person,589,79,962,1018
+person22.jpg,1500,1135,person,1013,70,1401,1009
+person23.jpg,960,540,person,58,81,348,540
+person23.jpg,960,540,person,345,68,658,540
+person23.jpg,960,540,person,649,91,941,540
+person24.jpg,960,540,person,2,137,203,540
+person24.jpg,960,540,person,200,166,439,540
+person24.jpg,960,540,person,436,127,758,540
+person24.jpg,960,540,person,760,147,958,540
+person26.jpg,612,431,person,67,40,516,431
+person27.jpg,680,450,person,53,61,157,222
+person27.jpg,680,450,person,271,55,382,222
+person27.jpg,680,450,person,503,57,621,222
+person27.jpg,680,450,person,47,280,164,450
+person27.jpg,680,450,person,276,280,391,450
+person27.jpg,680,450,person,501,276,630,450
+person28.jpg,960,540,person,468,43,845,540
+person28.jpg,960,540,person,322,222,444,540
+person28.jpg,960,540,person,174,247,334,540
+person28.jpg,960,540,person,21,212,164,540
+person29.jpg,600,600,person,1,30,600,599
+person3.jpg,1200,630,person,275,2,1200,628
+person30.jpeg,255,197,person,1,14,197,197
+person32.jpeg,474,632,person,1,76,474,631
+person34.jpg,300,300,person,25,5,299,300
+person35.jpeg,768,768,person,1,34,767,768
+person36.jpeg,202,250,person,1,14,201,250
+person38.jpeg,200,251,person,1,15,197,251
+person39.jpg,358,358,person,1,20,356,358
+person40.jpeg,226,223,person,53,37,220,222
+person41.jpg,700,390,person,2,40,194,390
+person41.jpg,700,390,person,133,55,423,390
+person41.jpg,700,390,person,380,22,574,390
+person41.jpg,700,390,person,567,37,700,389
+person42.jpg,1200,922,person,787,263,1186,922
+person42.jpg,1200,922,person,227,11,771,922
+person43.jpg,899,600,person,313,156,715,600
+person44.jpg,626,417,person,107,32,443,417
+person45.jpg,626,417,person,209,20,529,417
+person47.jpg,612,408,person,80,26,565,408
+person5.jpeg,256,256,person,38,84,205,256
+person52.jpeg,270,270,person,34,18,258,270
+person53.jpg,360,320,person,131,39,278,320
+person54.jpg,486,486,person,1,1,485,480
+person55.jpg,300,300,person,1,1,298,298
+person56.jpg,2280,970,person,4,212,840,970
+person56.jpg,2280,970,person,1404,8,2262,970
+person56.jpg,2280,970,person,826,358,1474,970
+person57.jpg,1000,1000,person,128,8,900,1000
+person58.jpg,302,473,person,1,12,301,473
+person6.jpg,445,281,person,38,10,372,281
+person60.jpg,300,300,person,1,10,228,300
+person61.jpeg,225,225,person,16,18,195,225
+person62.jpg,200,200,person,1,20,199,200
+person63.jpeg,175,288,person,1,69,175,286
+person64.jpeg,195,259,person,1,12,194,259
+person67.jpg,509,340,person,59,31,365,340
+person69.jpg,800,533,person,242,46,749,533
+person7.jpg,600,432,person,104,32,532,400
+person70.png,840,640,person,1,31,580,636
+person72.jpg,800,748,person,188,59,800,747
+person73.jpg,515,600,person,3,47,508,600
+person75.jpeg,286,176,person,79,14,155,109
+person75.jpeg,286,176,person,144,40,253,176
+person78.jpg,620,414,person,19,67,369,414
+person79.jpeg,1199,674,person,92,122,573,613
+person79.jpeg,1199,674,person,649,151,1078,665
+person8.jpg,608,342,person,144,6,345,342
+person8.jpg,608,342,person,354,56,515,342
+person83.jpg,770,433,person,538,19,655,402
+person83.jpg,770,433,person,477,94,549,397
+person83.jpg,770,433,person,418,90,493,394
+person83.jpg,770,433,person,324,88,432,422
+person83.jpg,770,433,person,203,97,332,433
+person83.jpg,770,433,person,113,105,213,419
+person83.jpg,770,433,person,66,102,132,414
+person84.jpg,477,268,person,1,18,256,262
+person84.jpg,477,268,person,255,60,398,259
+person84.jpg,477,268,person,394,93,427,141
+person85.jpg,1297,768,person,87,60,733,768
+person85.jpg,1297,768,person,735,4,1296,768
+person87.jpg,720,479,person,252,15,645,479
+person9.jpg,250,167,person,81,16,166,167
+person91.jpg,333,500,person,106,16,258,488
+person93.jpg,612,406,person,274,1,610,406
+person94.jpeg,600,600,person,1,48,599,599
+person95.jpeg,275,183,person,125,1,274,183
+person96.jpg,512,270,person,112,23,300,270
+person98.jpg,612,408,person,142,43,384,408
+rabbit10.jpg,800,533,rabbit,137,44,559,496
+rabbit12.jpg,480,480,rabbit,149,16,413,438
+rabbit14.png,700,408,rabbit,169,60,532,355
+rabbit17.jpg,350,263,rabbit,104,79,209,216
+rabbit18.jpg,465,262,rabbit,86,1,406,256
+rabbit19.jpg,620,463,rabbit,18,15,573,435
+rabbit20.jpg,800,600,rabbit,126,32,599,547
+rabbit24.jpg,428,450,rabbit,37,20,393,435
+rabbit25.jpeg,966,725,rabbit,268,75,844,655
+rabbit27.jpeg,771,687,rabbit,128,101,722,648
+rabbit28.jpg,626,462,rabbit,169,25,420,414
+rabbit30.jpg,960,640,rabbit,212,38,443,623
+rabbit32.jpg,992,558,rabbit,37,7,612,542
+rabbit33.jpg,836,399,rabbit,380,41,646,391
+rabbit35.jpg,480,270,rabbit,231,24,394,270
+rabbit38.jpg,736,418,rabbit,235,27,736,392
+rabbit4.jpg,435,395,rabbit,41,12,397,361
+rabbit40.jpg,220,208,rabbit,18,13,191,191
+rabbit41.jpg,600,400,rabbit,130,23,422,386
+rabbit44.jpg,945,629,rabbit,299,45,597,522
+rabbit45.jpg,1024,732,rabbit,313,98,929,570
+rabbit46.jpg,960,615,rabbit,523,83,914,516
+rabbit50.jpg,550,361,rabbit,148,59,323,244
+rabbit6.jpg,460,287,rabbit,108,17,348,266
+rabbit7.jpeg,1000,668,rabbit,284,51,793,614
+rabbit8.jpg,360,246,rabbit,175,29,288,197
+squirrel 1.jpg,660,371,squirrel,131,5,643,358
+squirrel 10.jpg,371,277,squirrel,40,19,297,246
+squirrel 100.jpg,825,797,squirrel,72,12,692,762
+squirrel 101.jpg,1160,764,squirrel,27,211,826,703
+squirrel 102.jpg,899,899,squirrel,172,162,779,795
+squirrel 103.jpg,1024,615,squirrel,143,37,778,561
+squirrel 104.jpg,1038,576,squirrel,221,53,967,513
+squirrel 11.jpg,333,500,squirrel,23,30,186,385
+squirrel 13.jpg,653,435,squirrel,58,49,414,434
+squirrel 14.jpg,1400,933,squirrel,267,40,1010,933
+squirrel 16.jpg,840,629,squirrel,295,189,616,616
+squirrel 17.jpg,840,502,squirrel,66,55,348,309
+squirrel 18.jpg,284,177,squirrel,82,14,237,162
+squirrel 20.jpg,1000,667,squirrel,40,51,777,621
+squirrel 21.jpg,620,413,squirrel,128,23,477,368
+squirrel 22.jpg,800,599,squirrel,167,95,593,526
+squirrel 23.jpg,640,480,squirrel,153,28,416,443
+squirrel 24.jpg,800,580,squirrel,32,18,611,562
+squirrel 25.jpg,600,400,squirrel,253,44,587,332
+squirrel 26.jpg,729,425,squirrel,68,25,497,414
+squirrel 28.jpg,1200,800,squirrel,90,101,879,719
+squirrel 29.jpg,800,450,squirrel,310,29,599,449
+squirrel 3.jpg,700,700,squirrel,43,56,700,697
+squirrel 30.png,250,250,squirrel,3,9,242,206
+squirrel 32.jpg,425,239,squirrel,22,38,154,225
+squirrel 32.jpg,425,239,squirrel,164,4,275,227
+squirrel 32.jpg,425,239,squirrel,293,6,403,235
+squirrel 33.jpg,1000,1000,squirrel,123,86,845,856
+squirrel 34.jpg,950,534,squirrel,203,25,686,494
+squirrel 35.jpg,900,600,squirrel,278,4,637,539
+squirrel 36.jpg,1000,916,squirrel,268,37,832,827
+squirrel 37.jpg,1484,1147,squirrel,516,411,1440,976
+squirrel 39.jpg,275,183,squirrel,68,5,190,183
+squirrel 4.jpg,968,681,squirrel,368,17,768,545
+squirrel 40.jpg,907,509,squirrel,80,208,479,378
+squirrel 41.jpg,400,200,squirrel,63,44,356,151
+squirrel 42.jpg,720,405,squirrel,231,69,558,294
+squirrel 44.jpg,275,183,squirrel,34,12,250,152
+squirrel 45.jpg,183,275,squirrel,5,52,161,246
+squirrel 46.jpg,400,400,squirrel,1,106,274,337
+squirrel 47.jpg,900,580,squirrel,327,44,560,571
+squirrel 5.jpg,800,600,squirrel,199,152,544,471
+squirrel 50.jpg,1024,682,squirrel,582,178,863,555
+squirrel 52.jpg,620,472,squirrel,27,15,574,262
+squirrel 54.jpg,1200,797,squirrel,218,59,901,740
+squirrel 55.jpg,328,154,squirrel,52,30,236,154
+squirrel 56.jpg,639,360,squirrel,56,1,354,317
+squirrel 57.jpg,1000,667,squirrel,88,178,569,494
+squirrel 58.jpg,782,509,squirrel,55,48,540,502
+squirrel 59.jpg,1000,667,squirrel,16,14,676,630
+squirrel 61.jpg,398,372,squirrel,95,61,332,291
+squirrel 62.jpg,500,345,squirrel,115,20,465,277
+squirrel 63.jpg,700,875,squirrel,209,59,576,875
+squirrel 64.jpg,259,194,squirrel,11,1,258,193
+squirrel 66.jpg,1200,630,squirrel,375,1,695,507
+squirrel 67.jpg,310,163,squirrel,14,33,154,152
+squirrel 67.jpg,310,163,squirrel,161,41,256,149
+squirrel 69.jpg,1900,1900,squirrel,324,70,1900,1886
+squirrel 7.jpg,650,406,squirrel,172,99,650,361
+squirrel 71.jpg,917,610,squirrel,59,6,916,604
+squirrel 74.jpg,640,427,squirrel,155,18,555,423
+squirrel 76.jpg,259,194,squirrel,44,1,181,191
+squirrel 78.jpg,600,374,squirrel,192,70,563,310
+squirrel 79.jpg,770,350,squirrel,216,9,754,275
+squirrel 8.jpg,860,460,squirrel,262,57,735,456
+squirrel 80.jpg,2851,2036,squirrel,495,317,2476,1702
+squirrel 81.jpg,840,525,squirrel,283,37,491,458
+squirrel 82.jpeg,644,484,squirrel,29,37,585,365
+squirrel 84.jpg,620,409,squirrel,165,48,421,409
+squirrel 85.jpg,2048,1365,squirrel,141,173,1904,1232
+squirrel 86.jpg,1000,562,squirrel,157,157,1000,359
+squirrel 87.jpg,289,175,squirrel,60,23,211,126
+squirrel 9.jpg,877,500,squirrel,187,1,372,299
+squirrel 9.jpg,877,500,squirrel,375,16,492,297
+squirrel 9.jpg,877,500,squirrel,496,6,611,122
+squirrel 9.jpg,877,500,squirrel,613,32,770,324
+squirrel 90.jpg,800,616,squirrel,84,57,714,505
+squirrel 91.jpg,800,449,squirrel,126,48,756,220
+squirrel 92.jpg,901,675,squirrel,171,425,440,621
+squirrel 92.jpg,901,675,squirrel,432,416,582,583
+squirrel 92.jpg,901,675,squirrel,365,99,742,413
+squirrel 94.jpg,600,446,squirrel,153,31,511,388
+squirrel 95.jpg,1280,720,squirrel,527,5,1280,701
+squirrel 96.jpg,800,533,squirrel,97,3,726,508
+squirrel 97.jpg,275,183,squirrel,24,26,256,153
+squirrel 98.jpg,745,496,squirrel,52,166,426,409
+squirrel 98.jpg,745,496,squirrel,407,84,701,205
+squirrel 99.jpg,1280,720,squirrel,109,13,1089,657
