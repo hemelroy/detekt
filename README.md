@@ -14,7 +14,7 @@ Detekt is designed to be a neighborhood security camera application. This app wi
 - Pandas
 
 ## Project Overview
-This project is built using Tensorflow, and Tensorflow detection model zoo. As such, any files that are not mentioned below do not belong to me, and can be found [here](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/detection_model_zoo.md)
+This neural network model uses Faster-RCNN, Inception V2 architecture and Tensorflow 1.15. It is based on a modified implementation of such model created by tensorflow found [here](https://github.com/tensorflow/models/tree/master/research/object_detection)
 
 Main Program Structure:
 - Folders
